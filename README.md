@@ -1,6 +1,6 @@
 # StudentAdminPortal.UI
 
-##Create a UI Application using Angular and a REST Web API using ASP.NET Core and create a real world full stack app
+## Create a UI Application using Angular and a REST Web API using ASP.NET Core and create a real world full stack app
 
 - How to create a new Angular app from scratch
 
